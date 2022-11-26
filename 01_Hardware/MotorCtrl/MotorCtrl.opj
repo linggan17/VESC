@@ -1,0 +1,91 @@
+(ExpressProject "MotorCtrl"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S022 (3984475)  [10/10/2021]-[11/27/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\motorlib.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\motorctrl.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\motorlib.olb")
+      (Select "Design Resources" "Library" ".\motorlib.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 292 0 676"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "STM32F405RGT6")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "TPSMF05CT1G")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "LMR16006XDDCR")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "MT1471")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "XC6219B332MR")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "INA240A1PWR")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1231 28 698"))
+      (Path "D:\Github\Motor-Ctrl\01_Hardware\MotorCtrl\MotorLib.OLB")
+      (Package "MC74VHC1G86DTT1G")
+      (PartType "1")))
+  (MPSSessionName "linggan"))
