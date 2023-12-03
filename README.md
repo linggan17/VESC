@@ -1,5 +1,6 @@
 # VESC
-##### 前言：本项目在本杰明驱动的基础上更换了部分电路（电源、栅极驱动等）
+
+# 前言：本项目在本杰明驱动的基础上更换了部分电路（电源、栅极驱动等）
 
 本杰明驱动github开源网址：https://github.com/vedderb
 
@@ -9,7 +10,7 @@
 
 ##### 1，01_Document
 
-1.1，参考原理图（来自：https://vesc-project.com/node/311）
+1.1，参考原理图（来自：https://vesc-project.co/node/311）
 
 1.2，规格书
 
