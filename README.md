@@ -6,7 +6,7 @@
 
 ##### 1，01_Document
 
-1.1，参考原理图（来自：https://vesc-project.co/node/311）
+1.1，参考原理图（来自：https://vesc-project.co/node/311 ）
 
 1.2，规格书
 
@@ -22,11 +22,11 @@
 
 #### 03_Firmware
 
-3.1，固件（来自：https://github.com/vedderb/bldc）
+3.1，固件（来自：https://github.com/vedderb/bldc ）
 
 #### 04_Tools
 
-4.1，vesc_tool_6.02.rar（来自：https://vesc-project.com/vesc_tool）
+4.1，vesc_tool_6.02.rar（来自：https://vesc-project.com/vesc_tool ）
 
 #### 05_3D模型
 
