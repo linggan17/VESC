@@ -4,15 +4,13 @@
 
 
 
-##### 1，01_Document
+#### 01_Document
 
 1.1，参考原理图（来自：https://vesc-project.co/node/311 ）
 
 1.2，规格书
 
-
-
-##### 02_Hardware
+#### 02_Hardware
 
 2.1，原理图源档+PDF档
 
